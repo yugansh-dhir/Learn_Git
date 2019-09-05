@@ -6,14 +6,13 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 1. Add you details to the next section, according to the following format:
 
 (Leave one line before starting)
-- Name: Abc xyz
-- Roll No.: 2019CSAxxxx
-- Interests: Only 1 line.
+- Name: Yugansh Dhir 
+- Roll No.: 2019010053578 
+Interests: 
 
 2. Bonus Task: Add the resources that you find really helpful in learning Git/GitHub basics in [Git_Resources](Git_Resources.md) .
+               1. Udemy
+               2. You tube
+               3. Tutorials point
 
 ## Interested Students
-
-- Name: 
-- Roll No.:
-- Interests: 
